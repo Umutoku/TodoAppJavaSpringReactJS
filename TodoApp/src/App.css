@@ -1,0 +1,14 @@
+
+.custom-field {
+  width: '50%';
+}
+
+.table-vertical-align {
+  vertical-align: 'middle';
+}
+
+.disabled {
+  cursor: 'not-allowed';
+}
+
+

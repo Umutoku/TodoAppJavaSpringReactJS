@@ -1,0 +1,23 @@
+
+.TodoList {
+    margin-top: 2rem;
+  }
+  
+
+  .TodoList .MuiListItem-root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+
+  .TodoList .MuiCheckbox-root {
+    padding-right: 1rem;
+  }
+  
+
+  .TodoList .MuiIconButton-root {
+    margin-left: 0.5rem;
+  }
+  
